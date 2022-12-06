@@ -1,2 +1,3 @@
-# HackerRank_Questions
-I add my solved HackerRank question here.
+# _*HackerRank Q&A*_
+---
+*I add my solved HackerRank question here.*
